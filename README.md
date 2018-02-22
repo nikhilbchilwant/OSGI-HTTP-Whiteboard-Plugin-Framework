@@ -6,3 +6,4 @@ This repository represents a template workspace for bndtools, it is the easiest 
 [1]: http://enroute.osgi.org/quick-start.html
 [2]: http://enroute.osgi.org/tutorial_base/800-ci.html
 [3]: https://www.gradle.org/
+# OSGI-HTTP-Whiteboard-Plugin-Framework
